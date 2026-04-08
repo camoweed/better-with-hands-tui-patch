@@ -1,3 +1,7 @@
+Full credit to SajmonOriginal for this mod, this patch only comments out 2 lines [here](https://github.com/camoweed/better-with-hands-tui-patch/blob/main/src/main/java/com/sajmonoriginal/betterwithhands/mixin/client/GuiInventoryMixin.java#L45) and [here](https://github.com/camoweed/better-with-hands-tui-patch/blob/main/src/main/java/com/sajmonoriginal/betterwithhands/mixin/client/GuiIngameMixin.java#L193).
+
+Please see the [original repository](https://github.com/SajmonOriginal/better-with-hands).
+
 # Better With Hands
 
 Did you know that you have a second hand? Look down. It's right there. You've had it this whole time.
